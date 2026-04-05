@@ -1,12 +1,13 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2342,1B4F72,2E86AB&height=200&section=header&text=Diego%20Rendón&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Systems%20Engineer%20·%20Data%20%26%20Automation%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+# 👋 Hola, soy Diego Alejandro Rendón Suaza
+### Systems Engineer · Data & Automation Specialist
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=700&lines=Automatizo+procesos%2C+construyo+soluciones+escalables;Power+Platform+%7C+Backend+%7C+Data+Analytics;Transformando+datos+en+decisiones+estrat%C3%A9gicas" alt="Typing SVG" />
-</a>
+![Automatizo procesos](https://img.shields.io/badge/🚀_Automatizo_procesos-construyo_soluciones_escalables-2E86AB?style=for-the-badge)
+
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoftpowerplatform&logoColor=white)
+![Backend Dev](https://img.shields.io/badge/Backend_Dev-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </div>
 
@@ -79,8 +80,11 @@ Soy estudiante de **Ingeniería de Sistemas (9° semestre)** en la Universidad d
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=FFFFFF" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejorendons&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=FFFFFF&cache_seconds=1800)](https://github.com/alejorendons)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejorendons&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=FFFFFF&cache_seconds=1800)](https://github.com/alejorendons)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=alejorendons&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E86AB&ring=2E86AB&fire=FF6B35&currStreakLabel=2E86AB)](https://github.com/alejorendons)
 
 </div>
 
@@ -92,10 +96,10 @@ Soy estudiante de **Ingeniería de Sistemas (9° semestre)** en la Universidad d
   <a href="mailto:diegoo.alejo74@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/alejorendons">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/alejorendons">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="tel:+573135954657">
@@ -104,5 +108,8 @@ Soy estudiante de **Ingeniería de Sistemas (9° semestre)** en la Universidad d
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2342,1B4F72,2E86AB&height=100&section=footer" />
+
+---
+*⚡ El Retiro, Antioquia, Colombia · Disponible para proyectos y oportunidades*
+
 </div>
