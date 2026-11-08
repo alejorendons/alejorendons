@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="48" viewBox="0 0 720 48" role="img" aria-labelledby="title desc">
+  <title id="title">Software, inteligencia artificial, datos y automatización</title>
+  <desc id="desc">Cuatro etiquetas de orientación profesional en azul, violeta, verde y ámbar.</desc>
+  <g font-family="DejaVu Sans,Verdana,Arial,sans-serif" font-size="12" font-weight="700" text-anchor="middle" fill="#fff">
+    <rect x="21" y="5" width="128" height="36" rx="4" fill="#2563eb"/>
+    <text x="85" y="28">SOFTWARE</text>
+    <rect x="161" y="5" width="232" height="36" rx="4" fill="#7c3aed"/>
+    <text x="277" y="28">INTELIGENCIA ARTIFICIAL</text>
+    <rect x="405" y="5" width="98" height="36" rx="4" fill="#0f766e"/>
+    <text x="454" y="28">DATOS</text>
+    <rect x="515" y="5" width="184" height="36" rx="4" fill="#b45309"/>
+    <text x="607" y="28">AUTOMATIZACIÓN</text>
+  </g>
+</svg>
